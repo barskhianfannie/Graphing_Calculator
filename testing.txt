@@ -1,0 +1,9 @@
+TESTING DOCUMENTATION
+
+
+
+----- Trig Functions work ------
+----- Panning and Zooming Works -----
+---- Unary Doesnt Work Properly ------
+---- When you get to end of Menu appropiate Statement writes to console ----
+---- Missing Left Paranthesis try / catch statement works -----
